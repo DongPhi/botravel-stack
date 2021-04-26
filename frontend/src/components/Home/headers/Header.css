@@ -1,0 +1,30 @@
+.bt-header{
+    background-color: #00bdbb;
+    height: 72px;
+}
+.hd-contact a, .hd-contact a:hover{ 
+    color: #fff;
+    text-decoration: none;
+    padding: 0 3px;
+}
+.hd-contact i{
+    color: #fff;
+}
+.h-36{
+    height: 36px;
+}
+.btn-login, .btn-lang{
+    float: right;
+}
+/* -------header-bot------- */
+
+.bt-header-bot .navbar{
+    height: 72px;
+}
+.bt-header-bot .navbar-brand{
+    font-size: 30px;
+    padding-bottom: 7px;
+}
+.bt-header-bot .nav-item{
+    padding: 0 15px;
+}
